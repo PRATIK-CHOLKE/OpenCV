@@ -13,3 +13,5 @@ Step 4) Go To File->Settings->Python Interpreter. Click on + sign at top right c
 Step 5) Similarly install 'opencv-python', 'numpy' and 'matplotlib'.
 
 Step 6) Once all installation is complete Run Individual files.
+
+Note:- If you are using jupyter notebook, Install miniconda and thereby install respective libraries.
